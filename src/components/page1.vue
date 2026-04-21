@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
     <div>
-        Hello
+        Bye Hell
 
     </div>
 </template>
