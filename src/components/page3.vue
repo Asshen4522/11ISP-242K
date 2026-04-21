@@ -3,11 +3,7 @@
 </script>
 <template>
     <div>
-
-        wfegrhjykblnyertxiur3ewtbuy
-
-        davaite zhit druzhno
-
+        Герман появился
 
     </div>
 </template>
