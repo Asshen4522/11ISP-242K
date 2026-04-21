@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
     <div>
-        Hello
+        Hello World
 
     </div>
 </template>
